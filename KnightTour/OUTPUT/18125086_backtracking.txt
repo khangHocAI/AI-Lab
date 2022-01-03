@@ -1,0 +1,10 @@
+-px 1 -py 1 -s 5
+---Time run--- 0.6306171417236328 (ms)
+23 16 11 6 21
+10 1 22 17 12
+15 24 5 20 7
+2 9 18 13 4
+25 14 3 8 19
+-px 1 -py 1 -s 8
+---Time run--- very large 
+Can not get the result in any board >8 by using backtracking

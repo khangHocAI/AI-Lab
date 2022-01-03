@@ -1,0 +1,22 @@
+-A
+20
+-A OR B OR C
+D OR E OR F
+-B OR -D
+-E OR G
+G OR H
+A OR -H
+B OR -G
+G OR K
+-C OR H
+-H OR I OR -J
+J OR L
+-F OR L
+M OR N
+N OR P
+-G OR -N
+N OR Q
+B OR Q
+-Q 
+-K
+-B
